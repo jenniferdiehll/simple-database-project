@@ -19,3 +19,6 @@ Using technologies such as: Java, JPA, Spring Boot framework to create an api an
 3. Open a plataform to run API's endpoints (We used Postman - Endpoint's Collection in attachments)
 4. Running the endpoints you will populate the database and get infos about consumer and purchase.
 
+- ### **Step-by-step demo below:**
+![DB2_Homework2_page-0001](https://github.com/jenniferdiehll/simple-database-project/assets/67604477/74bd7a29-4e44-4af9-bdb1-96cc2ae672eb)
+
