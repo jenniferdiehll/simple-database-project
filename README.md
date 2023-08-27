@@ -16,7 +16,7 @@ Using technologies such as: Java, JPA, Spring Boot framework to create an api an
 ### How it works: 
 1. Create a connection with mysql database
 2. Run the api to create the tables/entities developed
-3. Open a plataform to run API's endpoints (We used Postman - Endpoint's Collection in attachments)
+3. Open a plataform to run API's endpoints (We used Postman - **Collection avaiable for download**)
 4. Running the endpoints you will populate the database and get infos about consumer and purchase.
 
 - ### **Step-by-step demo below:**
