@@ -22,3 +22,5 @@ Using technologies such as: Java, JPA, Spring Boot framework to create an api an
 - ### **Step-by-step demo below:**
 ![DB2_Homework2_page-0001](https://github.com/jenniferdiehll/simple-database-project/assets/67604477/74bd7a29-4e44-4af9-bdb1-96cc2ae672eb)
 
+
+## Develop by: Jennifer Diehl, Matheus M. Porto e Paulo Lanius. 
